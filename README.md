@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E3A8A,100:38BDF8&height=220&section=header&text=Deepak%20Deore&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Java%20%2F%20Spring%20Boot%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,35:4A00E0,65:00C6FF,100:00F5A0&height=230&section=header&text=Deepak%20Deore&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Backend-Focused%20Full%20Stack%20Java%20%2F%20Spring%20Boot%20Developer&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Java+%7C+Spring+Boot+%7C+Full-Stack+Engineer;Building+scalable+APIs+%26+secure+backend+systems;300%2B+LeetCode+problems+solved;Currently+building+SDN-Based+Security+Guard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&pixelated=false&color=00F5A0&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=110&lines=%F0%9F%92%BB+Java+%7C+Spring+Boot+%7C+Full-Stack+Engineer;%F0%9F%9A%80+Building+scalable+APIs+%26+secure+backend+systems;%F0%9F%A7%A9+300%2B+LeetCode+problems+solved;%F0%9F%9B%A1%EF%B8%8F+Currently+building+SDN-Based+Security+Guard" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://portfolio-blue-alpha-ducdvgf6yv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://portfolio-blue-alpha-ducdvgf6yv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/deepakdeore5650"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:deepakdeore5650@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/deepakdeore5650"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:deepakdeore5650@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/deepakdeore5650"><img src="https://img.shields.io/badge/GitHub-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=deepakdeore5650&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/deepakdeore5650?style=for-the-badge&color=1E3A8A&labelColor=0B0F19&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=deepakdeore5650&style=for-the-badge&color=00C6FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/deepakdeore5650?style=for-the-badge&color=8E2DE2&labelColor=181717&logo=github" />
 <img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 
 </div>
@@ -207,18 +207,8 @@ A classic Spring MVC e-commerce app covering the full retail loop — category-b
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepakdeore5650&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=deepakdeore5650&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/deepakdeore5650/deepakdeore5650/output/github-contribution-grid-snake.svg" width="95%" />
-
-<sub>Powered by a self-updating GitHub Action — see the setup note at the bottom of this file.</sub>
 </div>
 
 <br/>
