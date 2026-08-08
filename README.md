@@ -7,7 +7,6 @@
 </a>
 
 <br/>
-<br/>
 
 <a href="https://portfolio-blue-alpha-ducdvgf6yv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/deepakdeore5650"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
