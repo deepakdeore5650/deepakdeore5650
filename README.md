@@ -235,3 +235,37 @@ Open to backend, full-stack, and cloud-native engineering opportunities — alwa
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
 
 </div>
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: deepakdeore5650
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
